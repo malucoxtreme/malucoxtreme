@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @malucoxtreme
 - 👀 I’m interested in tecnology and coffee
-- 🌱 I’m currently learning node.js 
+- 🌱 I’m currently learning Flutter
+- I’m .Net Developer 
 - 📫 How to reach me just on twitter @malucoxtreme and only.
 - Some news i'll post here!
 <!---
